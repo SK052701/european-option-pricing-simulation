@@ -11,4 +11,7 @@ This project implements a Monte Carlo simulation to price European call options 
 ### Simulated Stock Price Paths
 ![Simulated Stock Paths](visuals/simulated_stock_paths_GBM.png)
 
+### Option Payoff Distribution
+![Option Payoff Distribution](visuals/option_payoff_distribution.png)
+
 
